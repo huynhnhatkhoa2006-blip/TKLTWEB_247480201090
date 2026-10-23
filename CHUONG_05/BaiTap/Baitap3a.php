@@ -1,0 +1,13 @@
+<?php
+ $x=3;
+ $y=5;
+ 
+ echo "Kết quả phép nhân ".($x*$y)."";
+ echo "<br>Kết quả phép cộng ".($x+$y)."";
+ echo "<br>Kết quả phép chia ".($x/$y)."";
+ echo "<br>Kết quả phép trừ ".($x-$y)."";
+ echo "<br>Kết quả chia lấy dư ".($x%=$y)."";
+
+
+
+?>
